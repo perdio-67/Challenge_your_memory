@@ -25,7 +25,7 @@ public class Popup extends Activity {
 
         DisplayMetrics dm= new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(dm);
-
+//hmm
         int width=dm.widthPixels;
         int height=dm.heightPixels;
 
